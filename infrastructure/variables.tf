@@ -1,5 +1,5 @@
 variable "bucket_name" {
-  default = "react-aws-terraform-github-actions1"
+  default = "react-aws-terraform-github-actions2"
   description = "The name of the bucket"
 }
 
